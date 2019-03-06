@@ -1,4 +1,4 @@
-# Anti-aliasing Parallel Algorithm
+# Anti-aliasing - Parallel Algorithm
 Proiectul constă în implementarea unui program, folosind tehnici de paralelizare și sincronizare, capabil să redimensioneze o imagine micșorând pierderea de informație folosind tehnica anti-aliasing de tip super sampling antialiasing SSAA sau FSAA și implementarea unui micro motor de randare, capabil să creeze o poză ce conțone o linie.
 
 Beneficiu personal:
